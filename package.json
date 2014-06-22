@@ -1,0 +1,23 @@
+{
+  "name": "gallerama",
+  "title": "Gallerama",
+  "description": "The ultimate WordPress Gallery plugin.",
+  "version": "0.1.0",
+  "homepage": "http://wordpress.org/plugins",
+  "author": {
+    "name": "Mickey Kay",
+    "email": "mickeyskay@gmail.com",
+    "url": "http://mickeykay.me"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-concat": "~0.1.2",
+    "grunt-contrib-uglify": "~0.1.1",
+    "grunt-contrib-cssmin": "~0.6.0",
+    "grunt-contrib-jshint": "~0.1.1",
+    "grunt-contrib-nodeunit": "~0.1.2",
+    "grunt-contrib-watch": "~0.2.0",
+    "grunt-contrib-sass": "~0.2.2"
+  },
+  "keywords": []
+}
